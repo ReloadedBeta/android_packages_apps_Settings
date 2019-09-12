@@ -17,4 +17,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Reloaded version -->
     <string name="reloaded_version">Reloaded version</string>
+
+    <!--Build date-->
+   <string name="build_date">Build date</string>
 </resources>
